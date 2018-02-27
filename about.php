@@ -1,0 +1,4 @@
+<?php include 'header.php'; ?>
+<h2>О компании</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate quasi tempore fugiat minus iste optio, cumque consectetur tempora praesentium nam. Eligendi dignissimos, ad perspiciatis, sed fuga illo hic delectus velit porro quaerat impedit, blanditiis, a pariatur ipsa. Pariatur blanditiis earum ad eos, commodi ex quia eum quidem dignissimos ipsam tenetur iure a officia veritatis. Eius autem rerum amet doloremque esse labore asperiores beatae recusandae officiis provident, ullam id? Veritatis, ratione, quidem. Fugiat ullam, adipisci dicta doloribus. Eligendi assumenda ipsam facere commodi cum quae nesciunt repudiandae amet, totam. Maiores maxime, impedit nihil illo consequuntur soluta optio reiciendis sequi beatae nesciunt. Suscipit.</p>
+<?php include 'footer.php'; ?>
